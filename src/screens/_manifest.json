@@ -1,0 +1,56 @@
+{
+ "app": "Mobile Wallet Concept",
+ "start": "home",
+ "screens": [
+  {
+   "slug": "home",
+   "name": "Home",
+   "page": "Wallet",
+   "w": 375,
+   "h": 812,
+   "elements": 64,
+   "links": 2
+  },
+  {
+   "slug": "home-card-info",
+   "name": "Home--Card Info",
+   "page": "Wallet",
+   "w": 375,
+   "h": 812,
+   "elements": 40,
+   "links": 6
+  },
+  {
+   "slug": "home-transactions",
+   "name": "Home--Transactions",
+   "page": "Wallet",
+   "w": 375,
+   "h": 812,
+   "elements": 52,
+   "links": 1
+  },
+  {
+   "slug": "home-send-money",
+   "name": "Home--Send Money",
+   "page": "Wallet",
+   "w": 375,
+   "h": 812,
+   "elements": 44,
+   "links": 1
+  },
+  {
+   "slug": "home-payment",
+   "name": "Home--Payment",
+   "page": "Wallet",
+   "w": 375,
+   "h": 812,
+   "elements": 88,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "montserrat"
+ ]
+}
